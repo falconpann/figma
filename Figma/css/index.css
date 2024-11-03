@@ -1,0 +1,145 @@
+ *{
+  margin:0; 
+  padding:0;
+  box-sizing: border-box; 
+ }
+ .header{
+height:2513px;
+width:1140px;
+background-color:rgb(241,238,238,0.401);
+margin: auto;
+ }
+ .main_nav{
+    display:flex;
+    justify-content:space-between ;
+ }
+ .nav a{
+    text-decoration: none;
+    padding-left:30px;
+ }
+ .nav2 a{
+    padding:20px;
+    text-decoration:none;
+ }
+ .child{
+    height:408px;
+    width:486px;
+    padding:40px;
+ }
+ .child2 a img{
+    height:500px;
+    width:520px;
+ }
+ .main{
+    display:flex;
+    justify-content: space-between;
+ }
+ .into{
+    background-color:rgb(241,183,24);
+ }
+ button{
+    padding:4px 9px;
+    border-radius:5px;
+ }
+ h1{
+    height:50px;
+    width:486px;
+ }
+ p{
+    height:70px;
+    width: 486px;
+    color:gray;
+ }
+ h5{
+    height:27px;
+color: hsl(50,100%,50%);
+ }
+ h2{
+    text-align:center;
+ }
+ .main2{
+display:flex;
+justify-content: center;
+background-color: rgb(255,255,255
+);
+margin:80px;
+border-radius:20px;
+ }
+ .child3{
+margin:auto;
+ }
+ .main2 img{
+height: 300px;
+width:350px;
+border-top-right-radius:20px ;
+border-bottom-right-radius: 20px;
+ }
+ .main2 a{
+   text-decoration: none;
+   align-items:center;
+   padding: 10px 15px;
+   border-radius: 20px;
+ }
+ .main3{
+   display: flex;
+   margin: 80px;
+   background-color:rgb(255,255,255) ;
+   border-radius:20px;
+ }
+ .img3 img{
+height: 300px;
+width:350px;
+border-top-left-radius:20px;
+border-bottom-left-radius:20px ;
+ }
+
+ .child4{
+margin:auto;
+ }
+ .child4 a{
+   text-decoration:none;
+ }
+ .main4{
+   display:flex;
+   justify-content: center;
+   background-color: rgb(255,255,255);
+   margin: 80px;
+   border-radius:20px;
+ }
+ .child5{
+   margin: auto;
+ }
+ .main4 img{
+   height:300px;
+   width:350px ;
+   border-top-right-radius: 20px;
+   border-bottom-right-radius:20px ;
+ }
+ .main4 a{
+   text-decoration: none;
+   align-items:center;
+   padding:10px 15px ;
+   border-radius:20px;
+ }
+ h3{
+   text-align:center;
+   font-size:20px;
+ }
+ .form{
+   margin-left:400px ;
+   margin-top: 30px;
+ }
+ .form button{
+   margin: left 120px; 
+   margin-top: 10px;
+   background-color:rgb(249,181,9) ;
+ }
+ 
+ 
+ .form{
+padding-top: 50px;
+ }
+ .child31{
+display: flex
+
+ }
